@@ -1,9 +1,9 @@
 import React from 'react';
-import CyberRakshakDashboard from './CyberRakshakDashboard';
+import Lawbot from './pages/Lawbot';
 
 
 export default function App() {
   return (
-    <CyberRakshakDashboard />
+    <Lawbot />
   );
 }
